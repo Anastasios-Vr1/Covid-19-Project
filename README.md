@@ -7,7 +7,7 @@ In this project I’ve performed the following:
 1. Collected data from the "Our World in Data" official website.
 (Here's the link to the [Covid Deaths](https://ourworldindata.org/covid-deaths) and [Covid Vaccinations](https://ourworldindata.org/covid-vaccinations) Datasets
 
-2. Imported the dataset into SQL
+2. Imported the dataset into Microsoft SQL Server
 
 3. Performed data exploration to identify trends and patterns
 
