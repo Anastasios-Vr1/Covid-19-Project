@@ -1,6 +1,6 @@
 # Data Exploration | Covid-19 Project
 <img src="https://github.com/Anastasios-Vr1/AnastasiosVrakas.github.io/blob/main/images/Covid%20-19%20image.jpg" width="1050" height="500">
-The Covid-19 Project is a data analysis and visualization project that demonstrates skills in SQL and Tableau. The project focuses on the global impact of the Covid-19 pandemic and includes data on death counts, infection rates, vaccination rates, and other relevant metrics.
+The Covid-19 Project is a data exploration and visualization project that demonstrates skills in SQL and Tableau. The project focuses on the global impact of the Covid-19 pandemic and includes data on death counts, infection rates, vaccination rates, and other relevant metrics.
 In this project I’ve performed the following:
 
 
