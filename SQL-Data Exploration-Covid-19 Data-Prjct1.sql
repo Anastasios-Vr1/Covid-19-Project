@@ -6,9 +6,10 @@ Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, 
 */
 
 
-Select * From PortfolioProject..CovidDeaths
-Where Continent is Not Null
-Order by 3,4
+SELECT * 
+FROM PortfolioProject..CovidDeaths
+WHERE continent IS NOT NULL
+ORDER BY 3,4
 
 
 --Select the data that we are going to be staring with
